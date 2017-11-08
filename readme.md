@@ -1,3 +1,6 @@
+## demo
+https://lazytai.github.io/datepicker/demo/
+
 ## how to use
 ```
     <div id='schedule-box' class="boxshaw">
